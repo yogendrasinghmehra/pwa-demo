@@ -1,23 +1,23 @@
 {
   "configVersion": 1,
-  "index": "https://github.com/yogendrasinghmehra/pwa-demo/index.html",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://github.com/yogendrasinghmehra/pwa-demo/favicon.ico",
-        "https://github.com/yogendrasinghmehra/pwa-demo/index.html",
-        "https://github.com/yogendrasinghmehra/pwa-demo/0.e2de115c018bcf0b6fcd.chunk.js",
-        "https://github.com/yogendrasinghmehra/pwa-demo/1.318e326471827406e3dd.chunk.js",
-        "https://github.com/yogendrasinghmehra/pwa-demo/2.380c796542d85b799531.chunk.js",
-        "https://github.com/yogendrasinghmehra/pwa-demo/inline.f8b994da29a32ff14de4.bundle.js",
-        "https://github.com/yogendrasinghmehra/pwa-demo/main.a29074c8f106d3c68e14.bundle.js",
-        "https://github.com/yogendrasinghmehra/pwa-demo/polyfills.2bbef5c1ba534289f48c.bundle.js",
-        "https://github.com/yogendrasinghmehra/pwa-demo/scripts.0ba9e3d58975e6a5e1bb.bundle.js",
-        "https://github.com/yogendrasinghmehra/pwa-demo/styles.2b76783e6d317936150b.bundle.css",
-        "https://github.com/yogendrasinghmehra/pwa-demo/vendor.a6ab01732f202795bf11.bundle.js"
+        "/favicon.ico",
+        "/index.html",
+        "/0.e2de115c018bcf0b6fcd.chunk.js",
+        "/1.318e326471827406e3dd.chunk.js",
+        "/2.380c796542d85b799531.chunk.js",
+        "/inline.f8b994da29a32ff14de4.bundle.js",
+        "/main.a29074c8f106d3c68e14.bundle.js",
+        "/polyfills.2bbef5c1ba534289f48c.bundle.js",
+        "/scripts.0ba9e3d58975e6a5e1bb.bundle.js",
+        "/styles.2b76783e6d317936150b.bundle.css",
+        "/vendor.a6ab01732f202795bf11.bundle.js"
       ],
       "patterns": []
     },
@@ -26,32 +26,32 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://github.com/yogendrasinghmehra/pwa-demo/assets/icons/icon.png",
-        "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/1_CFM9_VhPRrGG755enCmClw (1).jpeg",
-        "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/profile_photo.jpg",
-        "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/resume-background.jpg",
-        "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/seamless-home-bg.png"
+        "/assets/icons/icon.png",
+        "/assets/images/1_CFM9_VhPRrGG755enCmClw (1).jpeg",
+        "/assets/images/profile_photo.jpg",
+        "/assets/images/resume-background.jpg",
+        "/assets/images/seamless-home-bg.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/yogendrasinghmehra/pwa-demo/0.e2de115c018bcf0b6fcd.chunk.js": "e5742bffd845de19ef1576e2daf979a6c3fb2ab0",
-    "https://github.com/yogendrasinghmehra/pwa-demo/assets/icons/icon.png": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://github.com/yogendrasinghmehra/pwa-demo/1.318e326471827406e3dd.chunk.js": "9442ea172338e6cc76714050da6915b212848a1a",
-    "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/1_CFM9_VhPRrGG755enCmClw (1).jpeg": "ba823a98f232b20deb17d18c49771fa1054c482c",
-    "https://github.com/yogendrasinghmehra/pwa-demo/2.380c796542d85b799531.chunk.js": "97ce708230d3bd1d2dd6db0634ec9103866393a9",
-    "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/profile_photo.jpg": "6c013010fee40f9c460c2e8bda4d126ebe4654b5",
-    "https://github.com/yogendrasinghmehra/pwa-demo/inline.f8b994da29a32ff14de4.bundle.js": "c097adb4d126fe7fc26ec88d635d9052401145cd",
-    "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/resume-background.jpg": "db8d5dcee1591f49eb3eccd9fa3dbb914f98b89a",
-    "https://github.com/yogendrasinghmehra/pwa-demo/main.a29074c8f106d3c68e14.bundle.js": "d3f1aa7be67f1c54a3dbebe8091578720817412f",
-    "https://github.com/yogendrasinghmehra/pwa-demo/assets/images/seamless-home-bg.png": "d285daaeeb4ffe4ea2d6d9ce07eb61cc0f4f4ac3",
-    "https://github.com/yogendrasinghmehra/pwa-demo/polyfills.2bbef5c1ba534289f48c.bundle.js": "3f49a3a769568bc1db108144b64faea59d469957",
-    "https://github.com/yogendrasinghmehra/pwa-demo/scripts.0ba9e3d58975e6a5e1bb.bundle.js": "973de7df6e682ba3ab009ddc8e08e8f5e29e24dc",
-    "https://github.com/yogendrasinghmehra/pwa-demo/styles.2b76783e6d317936150b.bundle.css": "fe97fa3a5b5876d889d9e5c784aa3de2b89fbd85",
-    "https://github.com/yogendrasinghmehra/pwa-demo/vendor.a6ab01732f202795bf11.bundle.js": "2995b7eaeeafb1ee5b0aec260514df4932cf793d",
-    "https://github.com/yogendrasinghmehra/pwa-demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://github.com/yogendrasinghmehra/pwa-demo/index.html": "c48ff5cd1d5740b857345d3c19baa7c618aba7dd"
+    "/0.e2de115c018bcf0b6fcd.chunk.js": "e5742bffd845de19ef1576e2daf979a6c3fb2ab0",
+    "/assets/icons/icon.png": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/1.318e326471827406e3dd.chunk.js": "9442ea172338e6cc76714050da6915b212848a1a",
+    "/assets/images/1_CFM9_VhPRrGG755enCmClw (1).jpeg": "ba823a98f232b20deb17d18c49771fa1054c482c",
+    "/2.380c796542d85b799531.chunk.js": "97ce708230d3bd1d2dd6db0634ec9103866393a9",
+    "/assets/images/profile_photo.jpg": "6c013010fee40f9c460c2e8bda4d126ebe4654b5",
+    "/inline.f8b994da29a32ff14de4.bundle.js": "c097adb4d126fe7fc26ec88d635d9052401145cd",
+    "/assets/images/resume-background.jpg": "db8d5dcee1591f49eb3eccd9fa3dbb914f98b89a",
+    "/main.a29074c8f106d3c68e14.bundle.js": "d3f1aa7be67f1c54a3dbebe8091578720817412f",
+    "/assets/images/seamless-home-bg.png": "d285daaeeb4ffe4ea2d6d9ce07eb61cc0f4f4ac3",
+    "/polyfills.2bbef5c1ba534289f48c.bundle.js": "3f49a3a769568bc1db108144b64faea59d469957",
+    "/scripts.0ba9e3d58975e6a5e1bb.bundle.js": "973de7df6e682ba3ab009ddc8e08e8f5e29e24dc",
+    "/styles.2b76783e6d317936150b.bundle.css": "fe97fa3a5b5876d889d9e5c784aa3de2b89fbd85",
+    "/vendor.a6ab01732f202795bf11.bundle.js": "2995b7eaeeafb1ee5b0aec260514df4932cf793d",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "16a191c2bd928720c42a3336a494ea9eb9d77a70"
   }
 }
